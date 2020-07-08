@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dich_vu">
+    <item>Truyền hình cáp</item>
+    <item>Đầu đĩa</item>
+    <item>Ti vi</item>
+    <item>Đầu chảo</item>
+    </string-array>
+</resources>
